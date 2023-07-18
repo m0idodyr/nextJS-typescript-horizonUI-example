@@ -1,0 +1,7 @@
+export { default as AuthSignInPage } from './auth/sign-in'
+export { default as AuthSignUpPage } from './auth/sign-up'
+export { default as ClaimPagePage } from './claim'
+export { default as DashboardPage } from './dashboard'
+export { default as UserProfilePage } from './user/profile'
+export { default as ActivateWalletPage } from './wallet/activate'
+export { default as WelcomePage } from './welcome'
